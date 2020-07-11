@@ -8,3 +8,15 @@ Api EX: http://www.quandl.com/api/v3/datasets/ZILL/S00022_A.csv
 Code Lists:
 https://blog.quandl.com/api-for-housing-data
 https://s3.amazonaws.com/quandl-production-static/zillow/indicators.csv
+
+
+QUESTIONS:
+
+How have current circumstances affected the housing market in terms of buying vs. selling compared to years past.
+  Are there areas that are more heavily affected than others? 
+    Are these areas simply geographically affected, or is it more spatial (as in proximity to a major population center)
+
+What trends are we seeing from homebuyers/sellers, are we seeing an ingress towards or away from cities/ heavily populated states
+  If there is a trend, what does this say about our real-estate climate as a whole
+    Can we make any predictions about the future of the housing market based on our findings?
+
