@@ -1,0 +1,10 @@
+This is the API Key and api link for Quandl for Real Estate housing data
+
+Api Key: NYyUL2G4GY5vFUZDN_v3
+Api Link:http://www.quandl.com/api/v3/datasets/ZILL
+Api Syntax: ZILL/{AREA_CATEGORY}{AREA_CODE}_{INDICATOR_CODE}
+Api EX: http://www.quandl.com/api/v3/datasets/ZILL/S00022_A.csv
+
+Code Lists:
+https://blog.quandl.com/api-for-housing-data
+https://s3.amazonaws.com/quandl-production-static/zillow/indicators.csv
